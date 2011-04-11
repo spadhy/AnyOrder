@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, OrderSelect!</string>
+    <string name="app_name">AnyOrder</string>
+    <string name="SelectRest">Search for your restaurant</string>
+    <string name="AllRest">All Restaurants in your location</string>
+    <string name="selChoice">Select your choice</string>
+</resources>
